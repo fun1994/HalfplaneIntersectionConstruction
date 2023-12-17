@@ -1,0 +1,2 @@
+# HalfplaneIntersectionConstruction
+halfplane intersection construction
